@@ -1,0 +1,4 @@
+After observing  the obtained data and graphs, few things that can be considered before launching an app in order achieve higher ratings are:
+1. Keeping the price as low as possible because from the obtained graph between price and User rating count, we can see that  that low price
+    will attract more users to download the app.
+2. Also rating of 4.0 has maximum frequency and most of them are found at the low price range, so obviously we need to keep the prices low.
